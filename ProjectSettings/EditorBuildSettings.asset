@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene3[Invoke]/Scenes/Scene3-1.unity
     guid: 239288a38cbb729429d5819655fb3363
+  - enabled: 1
+    path: Assets/Scene4[Terrain]/Scenes/Scene4-1.unity
+    guid: 9a93ceba3b2f67848a49ebebda35f6e0
   m_configObjects: {}
